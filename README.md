@@ -4,7 +4,7 @@ Spatio-temporal DBSCAN algorithm implemented using Python.
 
 Algorithm is quite similar to the usual DBSCAN algorithm, with an addition to incorporate the temporal information, if any.
 
-There are primarily 3 parameters in this implementation - 
+There are primarily 3 parameters in implementation - 
 
 * eps1/spatial threshold - This is similar to epsilon in DBSCAN
 * eps2/temporal threshold
